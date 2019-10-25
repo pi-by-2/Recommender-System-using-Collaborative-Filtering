@@ -5,4 +5,6 @@ For training the dataset, we have used SURPRISE library that is built specially 
 
 The final report is linked in the repository.
 
-The dataset can be found here: https://grouplens.org/datasets/movielens/latest/
+The dataset can be found [here](https://grouplens.org/datasets/movielens/latest/)
+
+#### While loading the ipynb file, if 'Sorry, something went wrong. Reload?' error message appear, please visit [nbviewer](https://nbviewer.jupyter.org/) and paste the ipynb file URL to view the notebook without any inconvenience 
